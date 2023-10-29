@@ -1,0 +1,8 @@
+#! /bin/bash
+
+cd /usr/local/hello-world-haru
+python3 -m venv venv
+venv/bin/python3 setup.py install
+
+mv venv/bin/hello /usr/bin/
+mv venv/bin/world /usr/bin/

@@ -1,0 +1,6 @@
+#! /bin/bash
+
+rm /usr/bin/hello
+rm /usr/bin/world
+
+rm -rf /usr/local/hello-world-haru/*

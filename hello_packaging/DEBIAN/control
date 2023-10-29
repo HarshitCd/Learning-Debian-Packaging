@@ -1,0 +1,6 @@
+Package: hello-world-haru
+Version: 1.0
+Architecture: all
+Maintainer: Harshit Cd <harshitcd@gmail.com>
+Description: Just prints hello and world.
+Depends: python3-venv
